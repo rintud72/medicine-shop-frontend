@@ -3,6 +3,7 @@
   publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "18"
+  NODE_VERSION = "20"
+
   # যদি দরকার হয়ে থাকে, এখানে অন্যান্য env ভেরিয়েবল ডিফল্ট করে দিতে পারো
   # VITE_API_URL = "http://localhost:5000"
